@@ -4,7 +4,7 @@ An automatic spray control system built using Arduino.
 This system activates a spray mechanism based on sensor input and predefined timing logic.
 
 ---
-
+ 
 ## Overview
 
 The Smart Spray System is designed to automate liquid spraying processes.  
